@@ -1,4 +1,5 @@
-# checkboxes
+## Task https://github.com/AliakseiMatsuk/checkboxes/blob/master/task.docx
+## Result https://aliakseimatsuk.github.io/checkboxes/
 
 ## Project setup
 ```
@@ -9,16 +10,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
